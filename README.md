@@ -1,3 +1,4 @@
+
 <div align="center">
    <img height="30" width="40" src="https://github.com/hipolitorodrigues/assets-for-github/blob/985021e61af3982fd9f28be446b106b958f24696/images/01/img-readme-ico.svg">
    <a href="./README.md">
@@ -7,6 +8,7 @@
       <img height="30" width="60" src="https://github.com/hipolitorodrigues/assets-for-github/blob/985021e61af3982fd9f28be446b106b958f24696/images/01/img-readme-pt-br.svg">
    </a>
 </div>
+
 # Progressive Guide to DAX Fundamentals
 
 This guide is aimed at those who already have experience with other programming or query languages but are beginners in DAX. The goal is to progressively become familiar with the syntax and core concepts of the language used in Power BI, Excel, and Analysis Services.
